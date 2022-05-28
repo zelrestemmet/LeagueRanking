@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a league match scoreboard calucaltion CLI application.
+This is a league match scoreboard calculation CLI application.
 
 ## Enviroment Setup
 
